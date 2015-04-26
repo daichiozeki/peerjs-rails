@@ -35,7 +35,7 @@ root.rb
 root 'peer#index'
 ```
 
-{app\_name}/app/controllers/peer¥\_controller.rb
+{app\_name}/app/controllers/peer\_controller.rb
 
 ```ruby
 def index
@@ -45,7 +45,7 @@ end
 create view
 
 ```
-touch {app\_name}/app/views/peer/index.html.erb
+touch {app_name}/app/views/peer/index.html.erb
 ```
 
 {app\_name}/app/views/peer/index.html.erb
