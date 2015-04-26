@@ -25,6 +25,9 @@ following into your `application.js` file:
 
 <!-- TODO: Write usage instructions here -->
 
+get SkyWayAPIKEY
+[SkyWay](http://nttcom.github.io/skyway/)
+
 chage directory
 
 		$cd {your aplication`s name}
