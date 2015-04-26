@@ -25,6 +25,10 @@ following into your `application.js` file:
 
 <!-- TODO: Write usage instructions here -->
 
+chage directory
+
+		$cd {your aplication`s name}
+
 create controller
 
 		$ rails g controller peer
@@ -35,7 +39,7 @@ root.rb
 root 'peer#index'
 ```
 
-{app\_name}/app/controllers/peer\_controller.rb
+app/controllers/peer\_controller.rb
 
 ```ruby
 def index
@@ -45,10 +49,10 @@ end
 create view
 
 ```
-touch {app_name}/app/views/peer/index.html.erb
+		$touch app/views/peer/index.html.erb
 ```
 
-{app\_name}/app/views/peer/index.html.erb
+app/views/peer/index.html.erb
 
 ```ruby
 TODO: usage 
