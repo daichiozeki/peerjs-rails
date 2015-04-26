@@ -25,7 +25,7 @@ following into your `application.js` file:
 
 <!-- TODO: Write usage instructions here -->
 
-get SkyWayAPIKEY
+get SkyWayAPIKEY<br>
 [SkyWay](http://nttcom.github.io/skyway/)
 
 chage directory
@@ -61,6 +61,8 @@ app/views/peer/index.html.erb
 TODO: usage 
 
 ```
+
+[PeerJs support browser](http://peerjs.com/status/)
 
 
 ## Contributing
