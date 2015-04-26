@@ -23,7 +23,36 @@ following into your `application.js` file:
 
 ## Usage
 
-TODO: Write usage instructions here
+<!-- TODO: Write usage instructions here -->
+
+		$ rails g controller peer
+
+root.rb
+
+```ruby
+root 'peer#index'
+```
+
+{app\_name}/app/controllers/peer¥\_controller.rb
+
+```ruby
+def index
+end
+```
+
+create view
+
+```
+touch {app\_name}/app/views/peer/index.html.erb
+```
+
+{app\_name}/app/views/peer/index.html.erb
+
+```ruby
+TODO: usage 
+
+```
+
 
 ## Contributing
 
