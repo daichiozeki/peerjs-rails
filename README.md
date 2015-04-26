@@ -25,6 +25,8 @@ following into your `application.js` file:
 
 <!-- TODO: Write usage instructions here -->
 
+create controller
+
 		$ rails g controller peer
 
 root.rb
